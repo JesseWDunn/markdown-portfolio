@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Keeper of _forbidden knowledge_ and **cautious** explorer of long-forgotten depths.
