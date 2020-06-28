@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Madness
+* Dreams
+* Rare Books
+  * Necronomicon
+* Cosmic Horrors
